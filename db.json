@@ -1,0 +1,446 @@
+{
+  "games": [
+    {
+      "id": "game_1749638027109_0",
+      "sportKey": "tennis",
+      "sportTitle": "Tennis",
+      "homeTeam": "Player D",
+      "awayTeam": "Player C",
+      "commenceTime": "2025-06-12T02:40:56.947Z",
+      "odds": {
+        "home": "1.90",
+        "away": "3.23"
+      }
+    },
+    {
+      "id": "game_1749638027109_1",
+      "sportKey": "esports csgo",
+      "sportTitle": "Esports Csgo",
+      "homeTeam": "FaZe",
+      "awayTeam": "Navi",
+      "commenceTime": "2025-06-16T07:40:52.171Z",
+      "odds": {
+        "home": "1.40",
+        "draw": "3.66",
+        "away": "2.91"
+      }
+    },
+    {
+      "id": "game_1749638027109_2",
+      "sportKey": "esports csgo",
+      "sportTitle": "Esports Csgo",
+      "homeTeam": "G2",
+      "awayTeam": "Navi",
+      "commenceTime": "2025-06-17T00:08:22.824Z",
+      "odds": {
+        "home": "3.19",
+        "draw": "2.95",
+        "away": "3.98"
+      }
+    },
+    {
+      "id": "game_1749638027109_3",
+      "sportKey": "tennis",
+      "sportTitle": "Tennis",
+      "homeTeam": "Player C",
+      "awayTeam": "Player A",
+      "commenceTime": "2025-06-13T19:23:09.215Z",
+      "odds": {
+        "home": "1.47",
+        "away": "1.80"
+      }
+    },
+    {
+      "id": "game_1749638027109_4",
+      "sportKey": "esports lol",
+      "sportTitle": "Esports Lol",
+      "homeTeam": "DRX",
+      "awayTeam": "JDG",
+      "commenceTime": "2025-06-15T23:09:20.505Z",
+      "odds": {
+        "home": "2.43",
+        "draw": "3.80",
+        "away": "3.68"
+      }
+    },
+    {
+      "id": "game_1749638027109_5",
+      "sportKey": "basketball",
+      "sportTitle": "Basketball",
+      "homeTeam": "Celtics",
+      "awayTeam": "Bucks",
+      "commenceTime": "2025-06-14T19:51:36.124Z",
+      "odds": {
+        "home": "1.41",
+        "away": "3.43"
+      }
+    },
+    {
+      "id": "game_1749638027109_6",
+      "sportKey": "soccer",
+      "sportTitle": "Soccer",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Juventus",
+      "commenceTime": "2025-06-14T04:53:41.214Z",
+      "odds": {
+        "home": "1.96",
+        "draw": "3.02",
+        "away": "2.42"
+      }
+    },
+    {
+      "id": "game_1749638027109_7",
+      "sportKey": "soccer",
+      "sportTitle": "Soccer",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Juventus",
+      "commenceTime": "2025-06-17T10:59:13.897Z",
+      "odds": {
+        "home": "2.58",
+        "draw": "3.74",
+        "away": "3.08"
+      }
+    },
+    {
+      "id": "game_1749638027109_8",
+      "sportKey": "tennis",
+      "sportTitle": "Tennis",
+      "homeTeam": "Player E",
+      "awayTeam": "Player A",
+      "commenceTime": "2025-06-18T03:51:29.502Z",
+      "odds": {
+        "home": "1.24",
+        "away": "1.82"
+      }
+    },
+    {
+      "id": "game_1749638027109_9",
+      "sportKey": "basketball",
+      "sportTitle": "Basketball",
+      "homeTeam": "Lakers",
+      "awayTeam": "Clippers",
+      "commenceTime": "2025-06-13T04:26:21.023Z",
+      "odds": {
+        "home": "1.91",
+        "away": "3.46"
+      }
+    },
+    {
+      "id": "game_1749638027109_10",
+      "sportKey": "esports csgo",
+      "sportTitle": "Esports Csgo",
+      "homeTeam": "G2",
+      "awayTeam": "Heroic",
+      "commenceTime": "2025-06-18T03:53:19.308Z",
+      "odds": {
+        "home": "2.95",
+        "draw": "2.87",
+        "away": "2.51"
+      }
+    },
+    {
+      "id": "game_1749638027109_11",
+      "sportKey": "esports lol",
+      "sportTitle": "Esports Lol",
+      "homeTeam": "JDG",
+      "awayTeam": "DRX",
+      "commenceTime": "2025-06-16T23:31:57.747Z",
+      "odds": {
+        "home": "1.89",
+        "draw": "2.60",
+        "away": "2.60"
+      }
+    },
+    {
+      "id": "game_1749638027109_12",
+      "sportKey": "soccer",
+      "sportTitle": "Soccer",
+      "homeTeam": "Juventus",
+      "awayTeam": "Real Madrid",
+      "commenceTime": "2025-06-17T08:20:15.361Z",
+      "odds": {
+        "home": "1.62",
+        "draw": "2.76",
+        "away": "3.66"
+      }
+    },
+    {
+      "id": "game_1749638027109_13",
+      "sportKey": "basketball",
+      "sportTitle": "Basketball",
+      "homeTeam": "Bucks",
+      "awayTeam": "76ers",
+      "commenceTime": "2025-06-17T21:36:20.375Z",
+      "odds": {
+        "home": "2.11",
+        "away": "2.67"
+      }
+    },
+    {
+      "id": "game_1749638027109_14",
+      "sportKey": "soccer",
+      "sportTitle": "Soccer",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Barcelona",
+      "commenceTime": "2025-06-11T17:27:11.830Z",
+      "odds": {
+        "home": "1.57",
+        "draw": "3.20",
+        "away": "2.40"
+      }
+    },
+    {
+      "id": "game_1749638027109_15",
+      "sportKey": "esports lol",
+      "sportTitle": "Esports Lol",
+      "homeTeam": "Gen.G",
+      "awayTeam": "DRX",
+      "commenceTime": "2025-06-13T18:00:26.682Z",
+      "odds": {
+        "home": "2.60",
+        "draw": "2.97",
+        "away": "1.78"
+      }
+    },
+    {
+      "id": "game_1749638027109_16",
+      "sportKey": "basketball",
+      "sportTitle": "Basketball",
+      "homeTeam": "Nets",
+      "awayTeam": "76ers",
+      "commenceTime": "2025-06-16T23:25:54.145Z",
+      "odds": {
+        "home": "2.45",
+        "away": "2.10"
+      }
+    },
+    {
+      "id": "game_1749638027109_17",
+      "sportKey": "basketball",
+      "sportTitle": "Basketball",
+      "homeTeam": "Suns",
+      "awayTeam": "Clippers",
+      "commenceTime": "2025-06-13T01:20:23.863Z",
+      "odds": {
+        "home": "2.51",
+        "away": "3.38"
+      }
+    },
+    {
+      "id": "game_1749638027109_18",
+      "sportKey": "soccer",
+      "sportTitle": "Soccer",
+      "homeTeam": "Juventus",
+      "awayTeam": "Bayern Munich",
+      "commenceTime": "2025-06-17T06:14:08.600Z",
+      "odds": {
+        "home": "2.96",
+        "draw": "3.72",
+        "away": "2.97"
+      }
+    },
+    {
+      "id": "game_1749638027109_19",
+      "sportKey": "soccer",
+      "sportTitle": "Soccer",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Inter Milan",
+      "commenceTime": "2025-06-16T12:33:49.298Z",
+      "odds": {
+        "home": "2.50",
+        "draw": "2.75",
+        "away": "2.53"
+      }
+    },
+    {
+      "id": "game_1749638027109_20",
+      "sportKey": "esports csgo",
+      "sportTitle": "Esports Csgo",
+      "homeTeam": "Cloud9",
+      "awayTeam": "G2",
+      "commenceTime": "2025-06-12T12:55:59.243Z",
+      "odds": {
+        "home": "1.44",
+        "draw": "3.25",
+        "away": "3.14"
+      }
+    },
+    {
+      "id": "game_1749638027109_21",
+      "sportKey": "esports csgo",
+      "sportTitle": "Esports Csgo",
+      "homeTeam": "Navi",
+      "awayTeam": "Vitality",
+      "commenceTime": "2025-06-18T07:31:44.988Z",
+      "odds": {
+        "home": "1.46",
+        "draw": "3.46",
+        "away": "2.46"
+      }
+    },
+    {
+      "id": "game_1749638027109_22",
+      "sportKey": "esports csgo",
+      "sportTitle": "Esports Csgo",
+      "homeTeam": "Cloud9",
+      "awayTeam": "FaZe",
+      "commenceTime": "2025-06-18T03:12:48.693Z",
+      "odds": {
+        "home": "1.91",
+        "draw": "3.20",
+        "away": "3.91"
+      }
+    },
+    {
+      "id": "game_1749638027109_23",
+      "sportKey": "esports csgo",
+      "sportTitle": "Esports Csgo",
+      "homeTeam": "Vitality",
+      "awayTeam": "Cloud9",
+      "commenceTime": "2025-06-17T22:04:37.655Z",
+      "odds": {
+        "home": "1.33",
+        "draw": "3.29",
+        "away": "3.46"
+      }
+    },
+    {
+      "id": "game_1749638027109_24",
+      "sportKey": "basketball",
+      "sportTitle": "Basketball",
+      "homeTeam": "Bucks",
+      "awayTeam": "Clippers",
+      "commenceTime": "2025-06-17T21:30:33.015Z",
+      "odds": {
+        "home": "2.54",
+        "away": "2.05"
+      }
+    },
+    {
+      "id": "game_1749638027109_25",
+      "sportKey": "basketball",
+      "sportTitle": "Basketball",
+      "homeTeam": "Lakers",
+      "awayTeam": "Bucks",
+      "commenceTime": "2025-06-16T08:46:00.652Z",
+      "odds": {
+        "home": "1.25",
+        "away": "1.71"
+      }
+    },
+    {
+      "id": "game_1749638027109_26",
+      "sportKey": "esports lol",
+      "sportTitle": "Esports Lol",
+      "homeTeam": "DRX",
+      "awayTeam": "EDG",
+      "commenceTime": "2025-06-13T09:30:56.760Z",
+      "odds": {
+        "home": "1.54",
+        "draw": "3.31",
+        "away": "3.87"
+      }
+    },
+    {
+      "id": "game_1749638027109_27",
+      "sportKey": "soccer",
+      "sportTitle": "Soccer",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "PSG",
+      "commenceTime": "2025-06-17T22:26:33.480Z",
+      "odds": {
+        "home": "2.97",
+        "draw": "2.68",
+        "away": "1.88"
+      }
+    },
+    {
+      "id": "game_1749638027109_28",
+      "sportKey": "esports lol",
+      "sportTitle": "Esports Lol",
+      "homeTeam": "DRX",
+      "awayTeam": "JDG",
+      "commenceTime": "2025-06-15T22:16:08.427Z",
+      "odds": {
+        "home": "1.76",
+        "draw": "3.57",
+        "away": "2.32"
+      }
+    },
+    {
+      "id": "game_1749638027109_29",
+      "sportKey": "esports lol",
+      "sportTitle": "Esports Lol",
+      "homeTeam": "EDG",
+      "awayTeam": "DRX",
+      "commenceTime": "2025-06-15T08:27:46.898Z",
+      "odds": {
+        "home": "2.91",
+        "draw": "3.32",
+        "away": "3.01"
+      }
+    }
+  ],
+  "bets": [
+    {
+      "id": "1a7e",
+      "gameId": "game_1749638027109_0",
+      "gameDetails": "Player D vs Player C",
+      "betType": "Home Win",
+      "stake": 1,
+      "odds": "3.22",
+      "potentialWin": 3.22,
+      "userId": "1",
+      "timestamp": "2025-06-12T02:53:54.526Z",
+      "isLiveBet": true,
+      "status": "lost"
+    },
+    {
+      "id": "5786",
+      "gameId": "game_1749638027109_5",
+      "gameDetails": "Celtics vs Bucks",
+      "betType": "Home Win",
+      "stake": 1,
+      "odds": "1.46",
+      "potentialWin": 1.46,
+      "userId": "1",
+      "timestamp": "2025-06-12T02:55:03.954Z",
+      "isLiveBet": true,
+      "status": "lost"
+    },
+    {
+      "id": "f05a",
+      "gameId": "game_1749638027109_0",
+      "gameDetails": "Player D vs Player C",
+      "betType": "Home Win",
+      "stake": 1,
+      "odds": "1.01",
+      "potentialWin": 1.01,
+      "userId": "1",
+      "timestamp": "2025-06-12T03:02:56.445Z",
+      "isLiveBet": true,
+      "status": "won"
+    },
+    {
+      "id": "aab7",
+      "gameId": "game_1749638027109_0",
+      "gameDetails": "Player D vs Player C",
+      "betType": "Home Win",
+      "stake": 1,
+      "odds": "2.33",
+      "potentialWin": 2.33,
+      "userId": "1",
+      "timestamp": "2025-06-12T04:13:56.898Z",
+      "isLiveBet": true,
+      "status": "won"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "player1",
+      "password": "password123",
+      "balance": 999.34
+    }
+  ]
+}
